@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "冬眠",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-10T03:24:54.481203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冬眠",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_冬眠_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冬眠",
+      "artist": "司南",
+      "has_synced": true,
+      "path": "select/02_冬眠_司南.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "冬眠-司南",
+      "artist": "??",
+      "has_synced": true,
+      "path": "select/03_冬眠-司南_unknown.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "冬眠-司南",
+      "artist": "司南",
+      "has_synced": true,
+      "path": "select/04_冬眠-司南_司南.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "冬眠",
+      "artist": "薛凱琪",
+      "has_synced": true,
+      "path": "select/05_冬眠_薛凱琪.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "冬眠",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_冬眠_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "冬眠",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/07_冬眠_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "冬眠·2023",
+      "artist": "刘兆宇 & 阿YueYue",
+      "has_synced": true,
+      "path": "select/08_冬眠·2023_刘兆宇_&_阿YueYue.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "冬眠·2023",
+      "artist": "刘兆宇",
+      "has_synced": true,
+      "path": "select/09_冬眠·2023_刘兆宇.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "冬眠",
+      "artist": "Fiona Sit",
+      "has_synced": false,
+      "path": "select/10_冬眠_Fiona_Sit.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "冬眠·2023",
+      "artist": "刘兆宇和阿YueYue",
+      "has_synced": true,
+      "path": "select/11_冬眠·2023_刘兆宇和阿YueYue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "冬眠 (说唱版2023)",
+      "artist": "纯情小博",
+      "has_synced": true,
+      "path": "select/12_冬眠_(说唱版2023)_纯情小博.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "冬眠 (和声伴奏版)",
+      "artist": "司南",
+      "has_synced": true,
+      "path": "select/13_冬眠_(和声伴奏版)_司南.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "冬眠·2023 (伴奏版)",
+      "artist": "刘兆宇",
+      "has_synced": true,
+      "path": "select/14_冬眠·2023_(伴奏版)_刘兆宇.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "冬眠·2023 - DJ阿布版",
+      "artist": "DJ阿智",
+      "has_synced": false,
+      "path": "select/15_冬眠·2023_-_DJ阿布版_DJ阿智.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "冬眠",
+      "artist": "黄舒骏",
+      "has_synced": false,
+      "path": "select/16_冬眠_黄舒骏.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "冬眠",
+      "artist": "Cheng, Enno",
+      "has_synced": true,
+      "path": "select/17_冬眠_Cheng,_Enno.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "冬眠·2023",
+      "artist": "刘兆宇 - Topic",
+      "has_synced": true,
+      "path": "select/18_冬眠·2023_刘兆宇_-_Topic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冬眠",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_冬眠_ヨルシカ.txt"
+    }
+  ]
+}
